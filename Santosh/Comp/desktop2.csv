@@ -1,0 +1,5 @@
+"The parts of a computer can be switched on in any order.",False
+"The monitor is joined to the CPU.",True
+"The desktop appears on its own when the computer is switched on.", False
+"UPS, monitor,CPU have power button.",True
+"Keyboard and mouse also have power button.",False
